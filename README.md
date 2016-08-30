@@ -1,4 +1,4 @@
-"# information_cascade" 
+
 # This code is an implementation of Algorithm 2 in the paper:
 T. Le, V. Subramanian, R. Berry, **Quantifying the Utility of Noisy Reviews in Stopping Information Cascades**, manuscript submitted to IEEE CDC, 2016. Archived version available at: https://archive.org/details/CDC2016Archive
 
